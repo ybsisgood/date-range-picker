@@ -1,0 +1,9 @@
+{
+	"name": "ybsisgood/date-range-picker",
+	"description": "ybsisgood daterangepicker yii 2 gridview",
+	"autoload": {
+		"psr-4": {
+			"ybsisgood\\extensions\\DateRangePicker\\": ""
+		}
+	}
+}
